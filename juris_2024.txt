@@ -1,0 +1,24 @@
+Denuncia 1
+Denunciante
+Nome: ADADADA
+RG: 223
+CPF: 23123
+Numero: 1
+
+Assinatura: c4175a16f348cd637c47d34759c4d876
+Denunciado
+Nome: xxxxxxx
+RG: 333
+CPF: 444
+Numero: 2
+
+Assinatura: c63db042a0ae568a4f33866bf9db71a8
+Denuncia: Fake News!
+Sentença
+O denunciado é obrigado a pagar uma multa ao denunciante!
+Juiz
+Nome: Alex Morales
+RG: 12312
+CPF: 123123
+Registro: 4456
+Assinatura: 14819aba103b82847783feea7f0200307e261737
